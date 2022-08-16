@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DownBoppers.png">
+	
+	
+	<SubTexture name="Second Corrupted Boppers0000" x="0" y="0" width="429" height="306" />
+	<SubTexture name="Second Level2 Boppers0000" x="0" y="0" width="429" height="306" />
+	<SubTexture name="Second Level3 Boppers0000" x="0" y="0" width="429" height="306" />
+</TextureAtlas>
